@@ -12,62 +12,56 @@ Adventure Works Cycles is a premium manufacturer of metal and composite bicycles
 
 4.Growth opportunities and strategic recommendations
 
-📌 Key Highlights
-💰 Total Sales: $29.4M
+## 📌 Key Highlights
 
-📈 Total Profit: $12.1M
+- 💰 **Total Sales:** $29.4M  
+- 📈 **Total Profit:** $12.1M  
+- 🛠️ **Production Cost:** $17.3M  
+- 📦 **Orders Processed:** 60,398  
 
-🛠️ Production Cost: $17.3M
+---
 
-📦 Orders Processed: 60,398
+## 🧠 Insights Derived
 
-🧠 Insights Derived
-🗓️ Monthly & Yearly Sales Trends
-Peak Sales: November and December
+### 🗓️ Monthly & Yearly Sales Trends
+- Peak Sales: **November and December**
+- Best Year: **2013 showed the highest annual revenue**
 
-Best Year: 2013 showed the highest annual revenue
+### 🧾 Product Category Analysis
+- Top Product Category: **Accessories**
+  - High sales potential
+  - Great for bundling and upselling
+- Most Ordered Products:
+  - **Mountain-200 Silver**
+  - **Mountain-200 Black**
 
-🧾 Product Category Analysis
-Top Product Category: Accessories – High sales potential; great for bundling and upselling
+### 🌍 Regional Performance
+- **Australia**: $9M in sales (Top-performing region)
+- **UK**: $5.7M in sales
+- **Low-performing**: Germany, Central region
 
-Most Ordered Products: Mountain-200 Silver & Black
+### 🧑‍🤝‍🧑 Customer Insights
+- Top 10 customers show high loyalty
+- A small customer base drives major revenue
 
-🌍 Regional Performance
-Best Performing Region: Australia ($9M in sales)
-
-Other Strong Market: UK ($5.7M)
-
-Underperforming Regions: Germany and Central region – opportunity for market expansion
-
-🧑‍🤝‍🧑 Customer Insights
-High loyalty observed in top 10 customers
-
-Small group of customers responsible for a large share of revenue
 
 🚀 Strategic Recommendations
-Engage High-Value Customers: Launch loyalty programs and exclusive offers
-
-Reduce Operational Costs: Focus on optimizing production processes
-
-Boost Underperforming Regions: Regional campaigns, localized marketing
-
-Product Innovation: Continue evolving high-demand products and accessories
+- Engage High-Value Customers: Launch loyalty programs and exclusive offers
+- Reduce Operational Costs: Focus on optimizing production processes
+- Boost Underperforming Regions: Regional campaigns, localized marketing
+- Product Innovation: Continue evolving high-demand products and accessories
 
 📈 Tools & Technologies Used
-Microsoft PowerPoint (for visualization & reporting)
-
-Sales data analytics
-
-Strategic market assessment
+- Microsoft PowerPoint (for visualization & reporting)
+- Power Bi
+- Sales data analytics
+- Strategic market assessment
 
 🛠️ Next Steps
-Implement customer retention strategies
-
-Reinvest in successful product lines and high-performing regions
-
-Analyze underperforming regions and plan outreach strategies
-
-Improve production efficiency using cost-optimization models
+-Implement customer retention strategies
+- Reinvest in successful product lines and high-performing regions
+- Analyze underperforming regions and plan outreach strategies
+- Improve production efficiency using cost-optimization models
 
 🙌 Acknowledgements
 Prepared by Group 6 as part of a business analysis project.
