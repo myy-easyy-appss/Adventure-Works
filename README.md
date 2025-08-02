@@ -1,16 +1,16 @@
-🚴 Adventure Works Cycles – Sales Analysis Dashboard
+# 🚴 Adventure Works Cycles – Sales Analysis 
 A comprehensive sales analysis project for Adventure Works Cycles, a multinational bicycle manufacturer, conducted by Group 4. This project explores business performance trends, top products and customers, regional insights, and opportunities for market growth using data-driven strategies.
 
 📊 Project Overview
 Adventure Works Cycles is a premium manufacturer of metal and composite bicycles, operating across North America, Europe, and Asia. This analysis uses historical sales data to uncover:
 
-Total sales and profits
+1.Total sales and profits
 
-Top-performing products and customers
+2.Top-performing products and customers
 
-Seasonal and regional sales trends
+3.Seasonal and regional sales trends
 
-Growth opportunities and strategic recommendations
+4.Growth opportunities and strategic recommendations
 
 📌 Key Highlights
 💰 Total Sales: $29.4M
